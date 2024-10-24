@@ -1,0 +1,9 @@
+[package]
+name = "simple-parser-kucherenko"
+version = "0.1.1"
+edition = "2021"
+license = "MIT"
+description = "Simple parser by Kucherenko"
+
+[dependencies]
+peg = "0.8.4"
